@@ -67,8 +67,8 @@ $dashboards = [
     ],
     [
         'grupo' => 'Logistica',
-        'nome' => 'Planejamento 24_25 S&OP',
-        'iframe' => 'https://app.powerbi.com/view?r=eyJrIjoiOWY0ZDFmOGItMWJmNy00YjAwLWI5YjgtMmMyNjNmY2UzYTgwIiwidCI6Ijg4ZjhhYzhhLWM5ZTgtNDI5MC05OGEyLWYxZGZhM2U0ZmM5MyJ9',
+        'nome' => 'Planejamento 25_26 S&OP',
+        'iframe' => 'https://app.powerbi.com/view?r=eyJrIjoiZmZiODAwNDctODA1Yi00MDhhLWEwNjEtMjBlZTlmYWQ1OGYyIiwidCI6Ijg4ZjhhYzhhLWM5ZTgtNDI5MC05OGEyLWYxZGZhM2U0ZmM5MyJ9',
         'roles' => ['god','admin','gerenciacomercial','coordenacaologistica'],
     ],
     [
